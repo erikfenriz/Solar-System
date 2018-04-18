@@ -12,6 +12,7 @@ Unfortunately, there are no rings of Neptune as nobody pictures it with rings si
 The animated Sun and outer space were added to add feel of animation and immersion.<br>
 
 ________________________________________________________________________________________________________<br>
+________________________________________________________________________________________________________
 Use CTRL+- (Windows) or CMND+- (MAC) to zoom in and out.<br>
 Noticed the <input type="range"> in the upper left corner? Great! With it you can control time of the universe!<br>
 ________________________________________________________________________________________________________
