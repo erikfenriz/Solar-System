@@ -7,8 +7,8 @@ Parens rotate and make its children rotate as well.<br>
 Also, I adjusted planets so they look with their bright side to the sun using degree transform to please visually.<br>
 Way more work I invested in the correct visualization of space objects.<br>
 All the mapped objects: moons, asteroid rings, planets, and their orbits correspond to reality.<br>
-There are many objects missing, of course, all dwarf the planets beside Pluto,<br>
-moons of Saturn, comets, and other objects.<br>
+There are many objects missing, alas; all dwarf the planets beside Pluto,<br>
+moons of Saturn, comets, and other objects. Maybe I would add them in the future versions.<br>
 Unfortunately, there are no rings of Neptune as nobody pictures it with rings since they are slightly visible.<br>
 The animated Sun and outer space were added to add feel of animation and immersion.<br>
 _<br>_
