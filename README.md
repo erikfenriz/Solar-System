@@ -8,7 +8,7 @@ Also, I adjusted planets so they look with their bright side to the sun using de
 Way more work I invested in the correct visualization of space objects.<br>
 All the mapped objects: moons, asteroid rings, planets, and their orbits correspond to reality.<br>
 There are many objects missing, of course, all dwarf the planets beside Pluto,<br>
-moons of Saturn, comments, and other objects.<br>
+moons of Saturn, comets, and other objects.<br>
 Unfortunately, there are no rings of Neptune as nobody pictures it with rings since they are slightly visible.<br>
 The animated Sun and outer space were added to add feel of animation and immersion.<br>
 _<br>_
